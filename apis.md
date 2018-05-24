@@ -1,14 +1,14 @@
 ---
 name: AfterShip
 x-slug: aftership
-description: 'AfterShip is an automated tracking solution and API for eCommerce. Support
-  tracking 460 international couriers worldwide.  '
+description: AfterShip is an automated tracking solution and API for eCommerce. Support
+  tracking 460 international couriers worldwide.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10212-aftership.jpg
 x-kinRank: "8"
 x-alexaRank: "4324"
 tags: AfterShip
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aftership/master/_listings/aftership/apis.md
 specificationVersion: "0.14"
 apis: []
